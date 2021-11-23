@@ -1,0 +1,6 @@
+a=int(input('valeur de:a'))
+b=int(input('valeur de:b'))
+c=int(input('valeur de:c'))
+d=int(input('valeur de:d'))
+s=int(a)+int(b)+int(c)+int(d)
+print('la somme de a et b et c et d est:',s)
